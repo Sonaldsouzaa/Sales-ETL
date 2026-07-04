@@ -1,0 +1,501 @@
+OrderID,Customer,Product,Category,Price,Quantity,PaymentMethod,SalesPerson,City
+1001,Sara,Chair,Furniture,670,3,UPI,Suresh,Bangalore
+1002,Divya,Chair,Furniture,711,5,Bank transfer,Janani,Pune
+1003,P,Laptop,Electronics,76540,2,UPI,Suresh,Pune
+1004,Anjali,Laptop,Electronics,73671,9,Bank transfer,Janani,Chennai
+1005,Amit,Mouse,Electronics,7411,3,Bank transfer,Janani,Chennai
+1006,sAM,Chair,Furniture,744,1,Bank transfer,Amitha,Mumbai
+1007,Neha,Laptop,Electronics,79577,6,Cash,Rani,Chennai
+1008,Amit,Mouse,Electronics,6573,2,Credit Card,Rani,Mumbai
+1009,Mike,Laptop,Electronics,77698,3,UPI,Janani,Bangalore
+1010,P,Chair,Furniture,864,4,Credit Card,Janani,Mumbai
+1011,Mike,Laptop,Electronics,66608,2,Cash,Sunita,Kolkata
+1012,jOS,Mouse,Electronics,5644,10,Bank transfer,Sunita,Chennai
+1013,sAM,Chair,Furniture,660,2,Cash,Sunita,Pune
+1014,jOS,Laptop,Electronics,65221,5,Bank transfer,Amitha,Pune
+1015,Sonn,Mouse,Electronics,7095,7,UPI,Sunita,Hyderabad
+1016,Divya,Chair,Furniture,732,2,UPI,Amitha,Chennai
+1017,Joyvi,Mouse,Electronics,5803,7,Cash,Janani,Mumbai
+1018,John,Mouse,Electronics,7885,8,Credit Card,Suresh,Chennai
+1019,Anjali,Laptop,Electronics,66060,8,Credit Card,Rani,Hyderabad
+1020,Jay,Laptop,Electronics,76462,8,Bank transfer,Rani,Delhi
+1021,Neha,Mouse,Electronics,6240,3,Credit Card,Sunita,Pune
+1022,Divya,Laptop,Electronics,70126,3,UPI,Amitha,Bangalore
+1023,Sonn,Chair,Furniture,898,10,Bank transfer,Rani,Mumbai
+1024,P,Chair,Furniture,734,3,Credit Card,Sunita,Bangalore
+1025,jOS,Mouse,Electronics,5635,9,Bank transfer,Suresh,Bangalore
+1026,Sonn,Mouse,Electronics,5554,1,Bank transfer,Suresh,Hyderabad
+1027,sAM,Laptop,Electronics,76834,2,Bank transfer,Rani,Hyderabad
+1028,Divya,Mouse,Electronics,7641,9,UPI,Janani,Chennai
+1029,jOS,Mouse,Electronics,7295,7,Bank transfer,Amitha,Pune
+1030,P,Laptop,Electronics,69932,9,Cash,Amitha,Hyderabad
+1031,Sonn,Laptop,Electronics,68748,1,Credit Card,Rani,Kolkata
+1032,Joyvi,Laptop,Electronics,78781,7,Cash,Janani,Hyderabad
+1033,David,Laptop,Electronics,67068,1,Cash,Rani,Pune
+1034,Joyvi,Mouse,Electronics,5887,8,Bank transfer,Rani,Kolkata
+1035,Sara,Mouse,Electronics,6629,9,Credit Card,Janani,Delhi
+1036,Sonn,Mouse,Electronics,5767,3,Credit Card,Sunita,Hyderabad
+1037,David,Laptop,Electronics,67366,7,Bank transfer,Amitha,Bangalore
+1038,Joyvi,Chair,Furniture,892,4,UPI,Janani,Kolkata
+1039,Anjali,Mouse,Electronics,5634,9,UPI,Rani,Mumbai
+1040,jOS,Laptop,Electronics,78248,4,Bank transfer,Rani,Pune
+1041,Savita,Chair,Furniture,695,1,Cash,Rani,Pune
+1042,Priya,Laptop,Electronics,71290,8,Bank transfer,Janani,Chennai
+1043,Amit,Chair,Furniture,702,5,Bank transfer,Amitha,Delhi
+1044,sAM,Mouse,Electronics,6706,1,Cash,Janani,Kolkata
+1045,P,Chair,Furniture,825,5,Credit Card,Rani,Chennai
+1046,Sara,Mouse,Electronics,5944,5,Credit Card,Janani,Delhi
+1047,jOS,Laptop,Electronics,70707,7,Bank transfer,Sunita,Kolkata
+1048,Sara,Chair,Furniture,862,5,UPI,Rani,Kolkata
+1049,Amit,Chair,Furniture,788,1,UPI,Rani,Delhi
+1050,Anjali,Laptop,Electronics,77363,6,Credit Card,Rani,Pune
+1051,David,Laptop,Electronics,74270,7,Cash,Suresh,Mumbai
+1052,sAM,Laptop,Electronics,67613,2,Bank transfer,Janani,Chennai
+1053,David,Chair,Furniture,686,1,Bank transfer,Amitha,Bangalore
+1054,Divya,Laptop,Electronics,73089,9,Credit Card,Janani,Hyderabad
+1055,Sara,Laptop,Electronics,66982,7,Bank transfer,Amitha,Chennai
+1056,John,Mouse,Electronics,6367,4,Credit Card,Janani,Pune
+1057,Neha,Mouse,Electronics,5293,2,Cash,Sunita,Hyderabad
+1058,Amit,Mouse,Electronics,6014,7,Cash,Sunita,Kolkata
+1059,jOS,Mouse,Electronics,5958,1,Credit Card,Rani,Chennai
+1060,Anjali,Chair,Furniture,669,4,Cash,Amitha,Delhi
+1061,Savita,Laptop,Electronics,71458,8,Cash,Amitha,Delhi
+1062,Anjali,Mouse,Electronics,6985,10,Bank transfer,Amitha,Hyderabad
+1063,P,Mouse,Electronics,7418,6,Credit Card,Amitha,Pune
+1064,jOS,Mouse,Electronics,7683,2,Bank transfer,Amitha,Chennai
+1065,Priya,Laptop,Electronics,77451,4,UPI,Amitha,Kolkata
+1066,John,Chair,Furniture,899,4,Bank transfer,Janani,Mumbai
+1067,P,Laptop,Electronics,66257,2,UPI,Janani,Hyderabad
+1068,jOS,Mouse,Electronics,7962,3,UPI,Suresh,Chennai
+1069,John,Mouse,Electronics,6828,2,UPI,Rani,Kolkata
+1070,Amit,Laptop,Electronics,65848,2,Credit Card,Amitha,Hyderabad
+1071,Neha,Chair,Furniture,688,3,Bank transfer,Rani,Pune
+1072,jOS,Chair,Furniture,764,4,Credit Card,Sunita,Hyderabad
+1073,David,Laptop,Electronics,66686,7,Credit Card,Sunita,Chennai
+1074,Sonn,Mouse,Electronics,5115,2,Credit Card,Sunita,Mumbai
+1075,John,Chair,Furniture,811,1,UPI,Amitha,Bangalore
+1076,Priya,Mouse,Electronics,6143,4,Bank transfer,Sunita,Chennai
+1077,David,Laptop,Electronics,66749,6,Bank transfer,Rani,Chennai
+1078,Savita,Mouse,Electronics,5899,10,Credit Card,Sunita,Bangalore
+1079,sAM,Mouse,Electronics,7422,5,Credit Card,Suresh,Mumbai
+1080,Neha,Mouse,Electronics,6850,7,Bank transfer,Amitha,Chennai
+1081,Savita,Mouse,Electronics,6217,2,Credit Card,Rani,Hyderabad
+1082,Anjali,Chair,Furniture,699,7,UPI,Janani,Hyderabad
+1083,jOS,Chair,Furniture,799,10,Credit Card,Suresh,Bangalore
+1084,Sara,Mouse,Electronics,5680,2,Bank transfer,Sunita,Mumbai
+1085,Sara,Mouse,Electronics,7192,5,Credit Card,Amitha,Bangalore
+1086,Sonn,Laptop,Electronics,79324,9,Bank transfer,Janani,Bangalore
+1087,Joyvi,Mouse,Electronics,7439,7,Bank transfer,Amitha,Mumbai
+1088,Mike,Mouse,Electronics,5936,8,Bank transfer,Janani,Delhi
+1089,jOS,Chair,Furniture,804,2,Credit Card,Amitha,Mumbai
+1090,sAM,Mouse,Electronics,7117,2,Credit Card,Amitha,Mumbai
+1091,Mike,Laptop,Electronics,76621,4,Bank transfer,Janani,Chennai
+1092,Joyvi,Chair,Furniture,789,6,Credit Card,Sunita,Mumbai
+1093,John,Laptop,Electronics,71602,6,Cash,Amitha,Chennai
+1094,Anjali,Chair,Furniture,756,4,Cash,Sunita,Bangalore
+1095,Neha,Mouse,Electronics,5116,10,Bank transfer,Janani,Bangalore
+1096,Sara,Chair,Furniture,654,10,UPI,Rani,Kolkata
+1097,Sonn,Laptop,Electronics,67295,5,UPI,Rani,Delhi
+1098,Divya,Chair,Furniture,709,2,UPI,Janani,Bangalore
+1099,Jay,Laptop,Electronics,76508,2,Cash,Amitha,Chennai
+1100,David,Chair,Furniture,718,3,Credit Card,Sunita,Kolkata
+1101,Sara,Chair,Furniture,694,4,Cash,Janani,Bangalore
+1102,Sara,Mouse,Electronics,7996,3,Credit Card,Rani,Pune
+1103,Neha,Laptop,Electronics,79025,2,UPI,Sunita,Hyderabad
+1104,Divya,Chair,Furniture,853,10,Cash,Janani,Bangalore
+1105,Neha,Chair,Furniture,653,5,Bank transfer,Amitha,Chennai
+1106,Mike,Laptop,Electronics,69390,8,Cash,Suresh,Kolkata
+1107,Jay,Chair,Furniture,653,5,Credit Card,Amitha,Chennai
+1108,sAM,Mouse,Electronics,7429,10,UPI,Amitha,Hyderabad
+1109,John,Mouse,Electronics,7858,6,UPI,Suresh,Hyderabad
+1110,David,Chair,Furniture,669,1,Bank transfer,Janani,Bangalore
+1111,Sonn,Mouse,Electronics,6165,5,UPI,Rani,Pune
+1112,Amit,Chair,Furniture,841,1,UPI,Sunita,Delhi
+1113,David,Mouse,Electronics,6579,6,Bank transfer,Sunita,Pune
+1114,Sonn,Chair,Furniture,716,2,UPI,Suresh,Chennai
+1115,sAM,Laptop,Electronics,69147,1,Bank transfer,Janani,Kolkata
+1116,Priya,Laptop,Electronics,75238,5,Cash,Amitha,Hyderabad
+1117,Mike,Laptop,Electronics,66409,2,Credit Card,Sunita,Pune
+1118,John,Chair,Furniture,836,2,Bank transfer,Suresh,Delhi
+1119,Amit,Laptop,Electronics,78936,8,Bank transfer,Rani,Pune
+1120,P,Mouse,Electronics,6239,10,UPI,Rani,Delhi
+1121,Priya,Laptop,Electronics,74862,1,Cash,Sunita,Chennai
+1122,Divya,Mouse,Electronics,6491,3,UPI,Amitha,Delhi
+1123,Sara,Mouse,Electronics,6544,5,Credit Card,Amitha,Mumbai
+1124,Sara,Chair,Furniture,766,8,Cash,Rani,Bangalore
+1125,Divya,Mouse,Electronics,5293,6,UPI,Sunita,Kolkata
+1126,David,Laptop,Electronics,67788,6,Cash,Sunita,Delhi
+1127,Joyvi,Mouse,Electronics,6386,8,Credit Card,Sunita,Bangalore
+1128,Neha,Chair,Furniture,871,2,Cash,Sunita,Delhi
+1129,P,Mouse,Electronics,6162,6,Bank transfer,Suresh,Mumbai
+1130,Neha,Laptop,Electronics,70163,6,Credit Card,Janani,Pune
+1131,Divya,Chair,Furniture,772,2,Credit Card,Rani,Bangalore
+1132,Jay,Laptop,Electronics,76846,3,Cash,Suresh,Bangalore
+1133,Priya,Mouse,Electronics,6672,1,Credit Card,Amitha,Chennai
+1134,jOS,Chair,Furniture,890,7,Cash,Suresh,Delhi
+1135,Divya,Mouse,Electronics,5708,10,Bank transfer,Rani,Bangalore
+1136,P,Chair,Furniture,677,1,Cash,Suresh,Delhi
+1137,Neha,Laptop,Electronics,79230,1,UPI,Suresh,Pune
+1138,David,Mouse,Electronics,7031,7,Bank transfer,Janani,Mumbai
+1139,P,Laptop,Electronics,69911,8,UPI,Amitha,Hyderabad
+1140,Jay,Chair,Furniture,667,3,Cash,Rani,Hyderabad
+1141,Savita,Laptop,Electronics,73753,1,Bank transfer,Amitha,Bangalore
+1142,Neha,Laptop,Electronics,74859,5,Cash,Amitha,Bangalore
+1143,David,Laptop,Electronics,79209,4,UPI,Rani,Pune
+1144,Priya,Mouse,Electronics,5265,3,Bank transfer,Sunita,Hyderabad
+1145,Sara,Laptop,Electronics,66411,10,Bank transfer,Suresh,Delhi
+1146,P,Mouse,Electronics,5306,10,Bank transfer,Amitha,Mumbai
+1147,Jay,Mouse,Electronics,6465,6,Cash,Suresh,Kolkata
+1148,David,Laptop,Electronics,65089,4,Credit Card,Amitha,Kolkata
+1149,Savita,Chair,Furniture,759,5,Bank transfer,Janani,Hyderabad
+1150,P,Laptop,Electronics,77407,6,Cash,Sunita,Pune
+1151,P,Mouse,Electronics,6723,4,Bank transfer,Rani,Chennai
+1152,Jay,Mouse,Electronics,6896,8,Bank transfer,Janani,Hyderabad
+1153,Amit,Chair,Furniture,804,2,Credit Card,Sunita,Kolkata
+1154,John,Chair,Furniture,808,9,Credit Card,Amitha,Delhi
+1155,Sara,Mouse,Electronics,7154,4,Credit Card,Suresh,Mumbai
+1156,Amit,Mouse,Electronics,6767,9,UPI,Sunita,Kolkata
+1157,sAM,Laptop,Electronics,77063,4,Cash,Rani,Kolkata
+1158,Anjali,Laptop,Electronics,74492,1,UPI,Rani,Pune
+1159,Savita,Laptop,Electronics,66198,2,Credit Card,Amitha,Chennai
+1160,Priya,Laptop,Electronics,76022,7,UPI,Janani,Mumbai
+1161,Anjali,Laptop,Electronics,65457,9,Bank transfer,Sunita,Bangalore
+1162,Sonn,Laptop,Electronics,79633,2,Cash,Suresh,Mumbai
+1163,David,Laptop,Electronics,76311,5,Credit Card,Amitha,Chennai
+1164,Mike,Laptop,Electronics,75101,2,Bank transfer,Amitha,Hyderabad
+1165,Sara,Chair,Furniture,798,9,Bank transfer,Sunita,Mumbai
+1166,David,Chair,Furniture,822,6,UPI,Sunita,Hyderabad
+1167,Mike,Mouse,Electronics,7154,3,UPI,Sunita,Pune
+1168,P,Laptop,Electronics,69455,8,Credit Card,Amitha,Pune
+1169,Anjali,Chair,Furniture,767,7,Bank transfer,Suresh,Kolkata
+1170,P,Laptop,Electronics,66374,6,Cash,Amitha,Mumbai
+1171,John,Chair,Furniture,845,2,Credit Card,Janani,Mumbai
+1172,John,Chair,Furniture,705,1,Credit Card,Janani,Mumbai
+1173,Divya,Laptop,Electronics,74669,1,Cash,Suresh,Chennai
+1174,Priya,Chair,Furniture,868,7,Credit Card,Suresh,Chennai
+1175,Priya,Mouse,Electronics,6648,10,Bank transfer,Janani,Chennai
+1176,Priya,Laptop,Electronics,69917,9,Bank transfer,Sunita,Mumbai
+1177,Neha,Chair,Furniture,682,7,UPI,Rani,Hyderabad
+1178,P,Chair,Furniture,886,8,Cash,Rani,Delhi
+1179,Neha,Chair,Furniture,681,1,Credit Card,Sunita,Hyderabad
+1180,Joyvi,Mouse,Electronics,7478,1,UPI,Janani,Pune
+1181,David,Chair,Furniture,886,5,Cash,Amitha,Hyderabad
+1182,Jay,Chair,Furniture,657,5,Credit Card,Janani,Pune
+1183,Sara,Mouse,Electronics,5245,8,Credit Card,Suresh,Hyderabad
+1184,Jay,Mouse,Electronics,7476,3,Cash,Sunita,Pune
+1185,Divya,Laptop,Electronics,74499,7,UPI,Janani,Pune
+1186,Mike,Mouse,Electronics,6006,7,Bank transfer,Sunita,Bangalore
+1187,jOS,Mouse,Electronics,7072,10,Credit Card,Janani,Hyderabad
+1188,Sara,Laptop,Electronics,76321,1,Credit Card,Amitha,Hyderabad
+1189,Sonn,Chair,Furniture,889,6,Credit Card,Janani,Pune
+1190,Jay,Chair,Furniture,677,5,Credit Card,Janani,Bangalore
+1191,Savita,Laptop,Electronics,74911,10,Credit Card,Suresh,Mumbai
+1192,John,Mouse,Electronics,7902,3,Bank transfer,Amitha,Mumbai
+1193,Joyvi,Mouse,Electronics,7884,10,Bank transfer,Janani,Delhi
+1194,Sonn,Mouse,Electronics,6290,2,UPI,Janani,Mumbai
+1195,John,Chair,Furniture,711,9,Credit Card,Amitha,Pune
+1196,Mike,Chair,Furniture,854,3,Bank transfer,Amitha,Delhi
+1197,P,Laptop,Electronics,79878,10,Credit Card,Rani,Chennai
+1198,jOS,Chair,Furniture,808,6,UPI,Sunita,Delhi
+1199,Savita,Laptop,Electronics,65811,2,Bank transfer,Amitha,Mumbai
+1200,sAM,Laptop,Electronics,69859,8,UPI,Suresh,Pune
+1201,Anjali,Mouse,Electronics,7145,5,UPI,Rani,Bangalore
+1202,sAM,Chair,Furniture,788,4,Cash,Amitha,Mumbai
+1203,John,Mouse,Electronics,5666,7,Cash,Amitha,Hyderabad
+1204,Mike,Mouse,Electronics,7446,3,Credit Card,Rani,Kolkata
+1205,Sonn,Chair,Furniture,661,7,Credit Card,Amitha,Kolkata
+1206,Savita,Mouse,Electronics,6273,3,Bank transfer,Sunita,Mumbai
+1207,David,Chair,Furniture,839,3,UPI,Janani,Bangalore
+1208,Divya,Mouse,Electronics,6229,5,Bank transfer,Suresh,Chennai
+1209,Mike,Laptop,Electronics,76420,10,UPI,Amitha,Pune
+1210,Savita,Laptop,Electronics,72373,7,Bank transfer,Rani,Pune
+1211,Neha,Chair,Furniture,800,4,Credit Card,Rani,Bangalore
+1212,P,Chair,Furniture,862,4,Bank transfer,Amitha,Kolkata
+1213,John,Mouse,Electronics,6663,6,Cash,Rani,Bangalore
+1214,sAM,Chair,Furniture,782,1,Bank transfer,Rani,Delhi
+1215,Sara,Mouse,Electronics,7311,10,Cash,Amitha,Chennai
+1216,David,Chair,Furniture,802,1,UPI,Janani,Kolkata
+1217,sAM,Chair,Furniture,866,4,Bank transfer,Janani,Bangalore
+1218,jOS,Mouse,Electronics,5964,1,UPI,Suresh,Chennai
+1219,Amit,Chair,Furniture,840,7,Cash,Suresh,Kolkata
+1220,Divya,Mouse,Electronics,7563,8,Credit Card,Suresh,Kolkata
+1221,Anjali,Mouse,Electronics,7767,7,Credit Card,Amitha,Delhi
+1222,P,Chair,Furniture,763,1,Cash,Suresh,Hyderabad
+1223,Neha,Mouse,Electronics,6142,2,Credit Card,Janani,Delhi
+1224,P,Laptop,Electronics,72968,3,UPI,Sunita,Mumbai
+1225,sAM,Laptop,Electronics,65709,10,Bank transfer,Janani,Kolkata
+1226,Divya,Chair,Furniture,778,1,Credit Card,Sunita,Hyderabad
+1227,Sara,Laptop,Electronics,70430,2,Bank transfer,Janani,Hyderabad
+1228,John,Laptop,Electronics,68037,6,UPI,Amitha,Mumbai
+1229,jOS,Laptop,Electronics,69820,9,UPI,Suresh,Delhi
+1230,jOS,Chair,Furniture,780,6,Credit Card,Sunita,Delhi
+1231,David,Mouse,Electronics,6276,10,Bank transfer,Suresh,Kolkata
+1232,David,Mouse,Electronics,5445,3,Cash,Janani,Mumbai
+1233,jOS,Laptop,Electronics,71805,1,Credit Card,Sunita,Hyderabad
+1234,Amit,Mouse,Electronics,6044,4,Credit Card,Rani,Hyderabad
+1235,Sara,Chair,Furniture,684,9,Bank transfer,Rani,Mumbai
+1236,jOS,Chair,Furniture,877,6,Credit Card,Sunita,Hyderabad
+1237,Sonn,Mouse,Electronics,6668,3,Credit Card,Amitha,Bangalore
+1238,Sonn,Chair,Furniture,847,1,Credit Card,Amitha,Bangalore
+1239,Savita,Chair,Furniture,689,3,UPI,Amitha,Kolkata
+1240,Amit,Chair,Furniture,893,8,Cash,Janani,Delhi
+1241,Anjali,Mouse,Electronics,6846,2,Cash,Rani,Mumbai
+1242,Neha,Chair,Furniture,792,3,Credit Card,Suresh,Delhi
+1243,Divya,Laptop,Electronics,72662,2,Cash,Amitha,Pune
+1244,Priya,Mouse,Electronics,5859,6,Credit Card,Sunita,Bangalore
+1245,Amit,Chair,Furniture,854,9,UPI,Janani,Kolkata
+1246,Mike,Chair,Furniture,745,2,Credit Card,Suresh,Hyderabad
+1247,jOS,Laptop,Electronics,78527,2,UPI,Amitha,Mumbai
+1248,Divya,Chair,Furniture,682,6,UPI,Suresh,Kolkata
+1249,Divya,Mouse,Electronics,6802,6,Bank transfer,Janani,Delhi
+1250,Joyvi,Mouse,Electronics,6326,8,Cash,Janani,Chennai
+1251,Savita,Laptop,Electronics,75573,9,Bank transfer,Sunita,Pune
+1252,sAM,Laptop,Electronics,76524,8,Cash,Sunita,Chennai
+1253,Anjali,Mouse,Electronics,5808,10,Bank transfer,Amitha,Chennai
+1254,Savita,Chair,Furniture,786,2,Bank transfer,Sunita,Mumbai
+1255,Anjali,Chair,Furniture,735,6,Bank transfer,Sunita,Hyderabad
+1256,Savita,Chair,Furniture,768,10,UPI,Rani,Mumbai
+1257,Joyvi,Laptop,Electronics,79261,5,Credit Card,Amitha,Mumbai
+1258,Sonn,Chair,Furniture,811,8,Credit Card,Janani,Mumbai
+1259,P,Chair,Furniture,862,2,Credit Card,Rani,Delhi
+1260,Mike,Laptop,Electronics,71588,4,UPI,Suresh,Kolkata
+1261,sAM,Chair,Furniture,835,1,Bank transfer,Rani,Chennai
+1262,Sonn,Laptop,Electronics,69536,4,Bank transfer,Janani,Bangalore
+1263,Divya,Chair,Furniture,707,5,UPI,Sunita,Delhi
+1264,Priya,Laptop,Electronics,71157,8,Cash,Janani,Kolkata
+1265,Sonn,Chair,Furniture,658,9,UPI,Janani,Chennai
+1266,P,Chair,Furniture,698,10,Bank transfer,Amitha,Bangalore
+1267,Amit,Laptop,Electronics,74779,1,Credit Card,Sunita,Mumbai
+1268,Sara,Mouse,Electronics,7256,8,Cash,Sunita,Mumbai
+1269,Savita,Chair,Furniture,730,6,Bank transfer,Rani,Pune
+1270,Priya,Laptop,Electronics,69252,5,Bank transfer,Suresh,Pune
+1271,Anjali,Mouse,Electronics,6685,7,UPI,Janani,Delhi
+1272,Divya,Mouse,Electronics,5761,4,Credit Card,Suresh,Chennai
+1273,Sonn,Mouse,Electronics,6486,5,Bank transfer,Rani,Pune
+1274,Sara,Mouse,Electronics,5741,1,Cash,Amitha,Bangalore
+1275,sAM,Laptop,Electronics,74693,4,Credit Card,Suresh,Hyderabad
+1276,jOS,Mouse,Electronics,7485,4,Bank transfer,Sunita,Bangalore
+1277,Anjali,Laptop,Electronics,78555,7,Cash,Sunita,Chennai
+1278,Sara,Laptop,Electronics,65659,5,Cash,Amitha,Bangalore
+1279,jOS,Laptop,Electronics,74720,8,UPI,Amitha,Chennai
+1280,Amit,Laptop,Electronics,71120,9,UPI,Janani,Hyderabad
+1281,Neha,Chair,Furniture,806,2,Cash,Rani,Chennai
+1282,Joyvi,Chair,Furniture,823,3,Cash,Amitha,Kolkata
+1283,David,Chair,Furniture,847,10,Credit Card,Sunita,Kolkata
+1284,Divya,Laptop,Electronics,67841,7,UPI,Sunita,Bangalore
+1285,Savita,Mouse,Electronics,6057,9,UPI,Amitha,Mumbai
+1286,Priya,Laptop,Electronics,78561,5,UPI,Janani,Kolkata
+1287,David,Laptop,Electronics,72286,3,Cash,Janani,Bangalore
+1288,Mike,Laptop,Electronics,79417,9,UPI,Rani,Kolkata
+1289,Sonn,Chair,Furniture,784,10,UPI,Janani,Pune
+1290,Neha,Laptop,Electronics,75303,1,Cash,Rani,Pune
+1291,Sara,Laptop,Electronics,71265,8,Credit Card,Sunita,Hyderabad
+1292,David,Laptop,Electronics,68547,3,Credit Card,Janani,Pune
+1293,Neha,Mouse,Electronics,5901,4,Bank transfer,Janani,Bangalore
+1294,John,Mouse,Electronics,7057,6,Cash,Suresh,Mumbai
+1295,Amit,Chair,Furniture,815,1,Bank transfer,Suresh,Delhi
+1296,Amit,Mouse,Electronics,5334,4,Credit Card,Sunita,Bangalore
+1297,Sonn,Chair,Furniture,799,3,Credit Card,Janani,Hyderabad
+1298,Neha,Chair,Furniture,761,3,Credit Card,Suresh,Chennai
+1299,Savita,Laptop,Electronics,75822,7,Cash,Sunita,Chennai
+1300,sAM,Mouse,Electronics,6270,5,UPI,Amitha,Kolkata
+1301,Joyvi,Mouse,Electronics,6198,2,Credit Card,Janani,Chennai
+1302,Mike,Laptop,Electronics,72087,9,Credit Card,Suresh,Bangalore
+1303,Jay,Chair,Furniture,686,2,UPI,Amitha,Pune
+1304,Neha,Mouse,Electronics,5831,2,Cash,Sunita,Bangalore
+1305,Sara,Laptop,Electronics,65769,6,Credit Card,Sunita,Hyderabad
+1306,jOS,Laptop,Electronics,71296,9,Cash,Sunita,Pune
+1307,John,Chair,Furniture,755,10,Bank transfer,Amitha,Kolkata
+1308,Neha,Mouse,Electronics,7796,5,Bank transfer,Amitha,Mumbai
+1309,Priya,Mouse,Electronics,6058,7,Credit Card,Amitha,Delhi
+1310,Savita,Laptop,Electronics,73626,2,Bank transfer,Rani,Hyderabad
+1311,Priya,Laptop,Electronics,67250,2,Bank transfer,Suresh,Chennai
+1312,Jay,Chair,Furniture,724,10,Credit Card,Rani,Mumbai
+1313,sAM,Mouse,Electronics,5510,6,Credit Card,Amitha,Kolkata
+1314,Neha,Mouse,Electronics,5403,7,Credit Card,Suresh,Pune
+1315,Priya,Mouse,Electronics,5336,4,Bank transfer,Janani,Bangalore
+1316,Priya,Laptop,Electronics,75206,5,Credit Card,Amitha,Hyderabad
+1317,Priya,Mouse,Electronics,5494,2,Credit Card,Suresh,Delhi
+1318,jOS,Laptop,Electronics,79867,4,Cash,Rani,Pune
+1319,jOS,Mouse,Electronics,5641,2,Bank transfer,Rani,Chennai
+1320,sAM,Mouse,Electronics,7934,10,Credit Card,Suresh,Kolkata
+1321,Sara,Laptop,Electronics,76635,6,Bank transfer,Amitha,Bangalore
+1322,sAM,Chair,Furniture,673,6,Credit Card,Janani,Hyderabad
+1323,Amit,Mouse,Electronics,6396,6,UPI,Janani,Delhi
+1324,Jay,Mouse,Electronics,7672,7,UPI,Amitha,Pune
+1325,David,Chair,Furniture,742,5,Credit Card,Amitha,Mumbai
+1326,David,Mouse,Electronics,6420,7,UPI,Sunita,Pune
+1327,Divya,Mouse,Electronics,7185,1,Bank transfer,Amitha,Mumbai
+1328,Sonn,Laptop,Electronics,77395,10,Cash,Amitha,Kolkata
+1329,David,Chair,Furniture,692,7,Credit Card,Suresh,Mumbai
+1330,Neha,Chair,Furniture,846,5,Cash,Amitha,Hyderabad
+1331,Mike,Laptop,Electronics,78678,7,UPI,Amitha,Mumbai
+1332,David,Laptop,Electronics,67754,2,Cash,Sunita,Pune
+1333,Divya,Mouse,Electronics,7787,1,Credit Card,Amitha,Mumbai
+1334,P,Mouse,Electronics,7885,1,Cash,Rani,Kolkata
+1335,Amit,Chair,Furniture,723,4,Cash,Sunita,Delhi
+1336,Savita,Chair,Furniture,810,9,UPI,Janani,Kolkata
+1337,Amit,Mouse,Electronics,7575,5,Credit Card,Rani,Hyderabad
+1338,Joyvi,Chair,Furniture,852,10,Credit Card,Janani,Chennai
+1339,Savita,Mouse,Electronics,7475,4,Cash,Rani,Chennai
+1340,Sonn,Laptop,Electronics,74645,7,Credit Card,Janani,Kolkata
+1341,Savita,Chair,Furniture,681,8,Credit Card,Rani,Kolkata
+1342,Divya,Laptop,Electronics,70370,6,Bank transfer,Rani,Chennai
+1343,Mike,Laptop,Electronics,65863,1,Cash,Janani,Delhi
+1344,Neha,Mouse,Electronics,6325,6,Bank transfer,Janani,Hyderabad
+1345,Amit,Laptop,Electronics,77634,9,Credit Card,Amitha,Bangalore
+1346,sAM,Mouse,Electronics,6356,4,Credit Card,Suresh,Delhi
+1347,John,Chair,Furniture,677,4,UPI,Janani,Chennai
+1348,jOS,Mouse,Electronics,7809,2,UPI,Janani,Mumbai
+1349,David,Mouse,Electronics,6777,2,Credit Card,Sunita,Delhi
+1350,sAM,Chair,Furniture,780,3,Cash,Amitha,Kolkata
+1351,Savita,Chair,Furniture,771,6,UPI,Janani,Chennai
+1352,Joyvi,Mouse,Electronics,6195,9,UPI,Amitha,Kolkata
+1353,David,Chair,Furniture,678,3,Cash,Amitha,Pune
+1354,John,Chair,Furniture,769,7,Cash,Sunita,Chennai
+1355,Savita,Mouse,Electronics,5901,6,Bank transfer,Amitha,Hyderabad
+1356,Mike,Chair,Furniture,776,9,UPI,Janani,Hyderabad
+1357,Amit,Laptop,Electronics,79377,1,Credit Card,Suresh,Bangalore
+1358,Sara,Laptop,Electronics,79258,2,Cash,Suresh,Pune
+1359,Neha,Laptop,Electronics,72285,1,Cash,Suresh,Hyderabad
+1360,Divya,Mouse,Electronics,6998,2,Cash,Rani,Chennai
+1361,Joyvi,Chair,Furniture,889,3,Credit Card,Sunita,Mumbai
+1362,Neha,Laptop,Electronics,69564,4,Bank transfer,Rani,Bangalore
+1363,John,Laptop,Electronics,74953,8,Cash,Amitha,Hyderabad
+1364,jOS,Mouse,Electronics,5194,8,Cash,Rani,Mumbai
+1365,Priya,Laptop,Electronics,70466,9,UPI,Amitha,Hyderabad
+1366,jOS,Mouse,Electronics,7179,2,Cash,Janani,Bangalore
+1367,Neha,Mouse,Electronics,5200,6,Bank transfer,Sunita,Chennai
+1368,Priya,Laptop,Electronics,65309,4,Credit Card,Janani,Mumbai
+1369,Sonn,Mouse,Electronics,6840,10,Bank transfer,Suresh,Pune
+1370,David,Laptop,Electronics,74322,7,Bank transfer,Rani,Bangalore
+1371,David,Chair,Furniture,740,8,Credit Card,Sunita,Hyderabad
+1372,Sonn,Mouse,Electronics,7844,8,Bank transfer,Amitha,Mumbai
+1373,P,Mouse,Electronics,7439,6,UPI,Amitha,Hyderabad
+1374,Savita,Chair,Furniture,806,3,UPI,Janani,Mumbai
+1375,Neha,Laptop,Electronics,73214,3,Credit Card,Sunita,Hyderabad
+1376,Jay,Chair,Furniture,747,10,Cash,Sunita,Mumbai
+1377,Joyvi,Mouse,Electronics,7894,6,Bank transfer,Sunita,Delhi
+1378,sAM,Mouse,Electronics,7339,9,Cash,Sunita,Hyderabad
+1379,Priya,Chair,Furniture,821,9,Bank transfer,Sunita,Chennai
+1380,sAM,Laptop,Electronics,67076,6,Credit Card,Janani,Chennai
+1381,sAM,Laptop,Electronics,66745,1,UPI,Janani,Pune
+1382,John,Laptop,Electronics,69509,7,Credit Card,Amitha,Chennai
+1383,jOS,Mouse,Electronics,6849,2,Cash,Sunita,Delhi
+1384,sAM,Chair,Furniture,726,8,UPI,Suresh,Kolkata
+1385,Mike,Chair,Furniture,702,10,Bank transfer,Rani,Kolkata
+1386,John,Laptop,Electronics,69756,6,Bank transfer,Amitha,Hyderabad
+1387,Jay,Mouse,Electronics,7478,7,UPI,Rani,Delhi
+1388,John,Chair,Furniture,834,9,Credit Card,Janani,Kolkata
+1389,Sonn,Mouse,Electronics,7794,8,Cash,Rani,Delhi
+1390,Divya,Laptop,Electronics,78295,2,Cash,Rani,Hyderabad
+1391,jOS,Mouse,Electronics,5760,4,UPI,Rani,Bangalore
+1392,Sara,Chair,Furniture,799,8,Cash,Suresh,Hyderabad
+1393,Priya,Chair,Furniture,713,10,Bank transfer,Amitha,Bangalore
+1394,sAM,Laptop,Electronics,77765,2,Bank transfer,Amitha,Chennai
+1395,Priya,Mouse,Electronics,6568,8,UPI,Janani,Mumbai
+1396,sAM,Chair,Furniture,725,9,Credit Card,Amitha,Pune
+1397,Jay,Mouse,Electronics,7885,4,Credit Card,Sunita,Hyderabad
+1398,John,Chair,Furniture,814,7,Bank transfer,Amitha,Bangalore
+1399,Sara,Mouse,Electronics,6618,8,Bank transfer,Janani,Pune
+1400,Amit,Laptop,Electronics,71597,4,Cash,Amitha,Hyderabad
+1401,Savita,Chair,Furniture,815,10,UPI,Janani,Chennai
+1402,sAM,Mouse,Electronics,7058,1,Bank transfer,Suresh,Kolkata
+1403,Jay,Laptop,Electronics,78072,1,Bank transfer,Sunita,Delhi
+1404,Mike,Mouse,Electronics,6627,9,Credit Card,Rani,Mumbai
+1405,Neha,Laptop,Electronics,69079,8,Credit Card,Rani,Delhi
+1406,Savita,Laptop,Electronics,78287,2,Bank transfer,Sunita,Delhi
+1407,Sara,Laptop,Electronics,75387,9,Bank transfer,Rani,Chennai
+1408,Sonn,Mouse,Electronics,5314,4,Credit Card,Suresh,Pune
+1409,Neha,Laptop,Electronics,72673,9,Bank transfer,Sunita,Bangalore
+1410,Jay,Mouse,Electronics,5421,2,Bank transfer,Rani,Delhi
+1411,Divya,Chair,Furniture,836,2,UPI,Amitha,Mumbai
+1412,Anjali,Mouse,Electronics,6220,10,UPI,Rani,Hyderabad
+1413,Sonn,Mouse,Electronics,6934,1,Cash,Sunita,Kolkata
+1414,Neha,Chair,Furniture,754,8,UPI,Janani,Pune
+1415,Amit,Laptop,Electronics,73217,8,UPI,Sunita,Chennai
+1416,Jay,Mouse,Electronics,6475,5,UPI,Janani,Chennai
+1417,jOS,Mouse,Electronics,7947,8,UPI,Amitha,Mumbai
+1418,Neha,Chair,Furniture,799,4,Bank transfer,Sunita,Hyderabad
+1419,Priya,Mouse,Electronics,5095,1,UPI,Suresh,Bangalore
+1420,Sonn,Laptop,Electronics,79674,8,Credit Card,Rani,Delhi
+1421,Neha,Chair,Furniture,677,8,Credit Card,Janani,Mumbai
+1422,Joyvi,Mouse,Electronics,7103,9,UPI,Suresh,Mumbai
+1423,John,Chair,Furniture,692,5,UPI,Sunita,Delhi
+1424,Sara,Laptop,Electronics,72302,1,Bank transfer,Suresh,Chennai
+1425,David,Chair,Furniture,690,9,Bank transfer,Rani,Delhi
+1426,jOS,Mouse,Electronics,7465,1,Bank transfer,Suresh,Kolkata
+1427,Amit,Laptop,Electronics,78707,5,Bank transfer,Sunita,Kolkata
+1428,David,Chair,Furniture,865,1,Cash,Suresh,Delhi
+1429,Joyvi,Laptop,Electronics,70579,6,Cash,Rani,Bangalore
+1430,Amit,Chair,Furniture,791,10,UPI,Rani,Delhi
+1431,Jay,Laptop,Electronics,74277,4,Bank transfer,Amitha,Kolkata
+1432,Priya,Chair,Furniture,806,8,Cash,Janani,Kolkata
+1433,Priya,Mouse,Electronics,6657,7,Bank transfer,Sunita,Bangalore
+1434,David,Chair,Furniture,831,9,Credit Card,Amitha,Pune
+1435,Anjali,Chair,Furniture,774,4,Credit Card,Rani,Kolkata
+1436,Joyvi,Laptop,Electronics,65722,10,Credit Card,Rani,Bangalore
+1437,Sara,Laptop,Electronics,71170,1,Bank transfer,Rani,Hyderabad
+1438,sAM,Mouse,Electronics,6498,10,Bank transfer,Suresh,Pune
+1439,Anjali,Mouse,Electronics,5053,8,Credit Card,Sunita,Kolkata
+1440,Sara,Mouse,Electronics,5328,10,Bank transfer,Rani,Mumbai
+1441,Priya,Mouse,Electronics,5738,10,Bank transfer,Rani,Pune
+1442,Sara,Mouse,Electronics,7648,9,Credit Card,Suresh,Delhi
+1443,Amit,Mouse,Electronics,5270,9,UPI,Rani,Bangalore
+1444,Priya,Chair,Furniture,655,4,Credit Card,Janani,Pune
+1445,Anjali,Laptop,Electronics,77166,8,UPI,Janani,Pune
+1446,Neha,Mouse,Electronics,5279,6,Credit Card,Janani,Kolkata
+1447,David,Chair,Furniture,682,10,Cash,Janani,Mumbai
+1448,Joyvi,Laptop,Electronics,73659,9,UPI,Suresh,Bangalore
+1449,sAM,Mouse,Electronics,6675,6,Bank transfer,Amitha,Chennai
+1450,Jay,Chair,Furniture,788,9,UPI,Amitha,Bangalore
+1451,Divya,Mouse,Electronics,5143,8,Bank transfer,Janani,Bangalore
+1452,Joyvi,Chair,Furniture,800,1,UPI,Amitha,Bangalore
+1453,Joyvi,Mouse,Electronics,6045,5,UPI,Amitha,Chennai
+1454,John,Chair,Furniture,780,8,Bank transfer,Sunita,Hyderabad
+1455,Savita,Mouse,Electronics,5392,10,Credit Card,Amitha,Hyderabad
+1456,John,Laptop,Electronics,75062,4,Credit Card,Rani,Mumbai
+1457,Neha,Mouse,Electronics,7187,6,Credit Card,Rani,Pune
+1458,Savita,Mouse,Electronics,5146,3,Bank transfer,Janani,Kolkata
+1459,P,Chair,Furniture,811,9,UPI,Janani,Hyderabad
+1460,Jay,Chair,Furniture,719,5,Credit Card,Suresh,Chennai
+1461,Mike,Mouse,Electronics,6119,4,Credit Card,Amitha,Hyderabad
+1462,David,Mouse,Electronics,7181,1,UPI,Amitha,Kolkata
+1463,Amit,Chair,Furniture,770,9,Credit Card,Amitha,Pune
+1464,Divya,Mouse,Electronics,5434,10,Credit Card,Janani,Chennai
+1465,Priya,Chair,Furniture,727,8,UPI,Suresh,Kolkata
+1466,Sonn,Mouse,Electronics,5832,2,Cash,Rani,Chennai
+1467,Savita,Chair,Furniture,692,5,Bank transfer,Rani,Chennai
+1468,Amit,Mouse,Electronics,7817,5,Cash,Sunita,Delhi
+1469,Joyvi,Mouse,Electronics,5242,4,Bank transfer,Rani,Chennai
+1470,jOS,Chair,Furniture,747,7,UPI,Rani,Bangalore
+1471,Mike,Mouse,Electronics,5627,5,Cash,Suresh,Bangalore
+1472,David,Mouse,Electronics,5683,6,UPI,Amitha,Delhi
+1473,Joyvi,Chair,Furniture,719,1,Bank transfer,Rani,Delhi
+1474,Divya,Chair,Furniture,876,5,Credit Card,Amitha,Chennai
+1475,Amit,Chair,Furniture,661,1,Bank transfer,Suresh,Hyderabad
+1476,jOS,Laptop,Electronics,75564,8,Credit Card,Rani,Delhi
+1477,Savita,Mouse,Electronics,6513,9,Cash,Suresh,Mumbai
+1478,Sara,Laptop,Electronics,65336,6,Cash,Suresh,Delhi
+1479,Anjali,Mouse,Electronics,7089,9,Credit Card,Amitha,Delhi
+1480,David,Laptop,Electronics,68342,7,UPI,Amitha,Mumbai
+1481,Neha,Laptop,Electronics,65964,3,Bank transfer,Amitha,Bangalore
+1482,David,Mouse,Electronics,6758,7,UPI,Suresh,Chennai
+1483,Jay,Laptop,Electronics,68239,7,Credit Card,Janani,Chennai
+1484,Savita,Chair,Furniture,868,6,Cash,Sunita,Chennai
+1485,Priya,Laptop,Electronics,73433,5,UPI,Janani,Hyderabad
+1486,Sara,Mouse,Electronics,6684,9,Bank transfer,Suresh,Hyderabad
+1487,John,Laptop,Electronics,79325,4,Bank transfer,Sunita,Chennai
+1488,Mike,Mouse,Electronics,6108,5,UPI,Janani,Hyderabad
+1489,David,Laptop,Electronics,68670,2,Bank transfer,Rani,Chennai
+1490,Divya,Laptop,Electronics,71294,5,Credit Card,Sunita,Kolkata
+1491,Neha,Mouse,Electronics,5109,3,UPI,Janani,Hyderabad
+1492,sAM,Laptop,Electronics,78979,7,Bank transfer,Rani,Mumbai
+1493,Sara,Chair,Furniture,811,5,Cash,Rani,Hyderabad
+1494,Sara,Laptop,Electronics,66677,8,Bank transfer,Amitha,Pune
+1495,David,Mouse,Electronics,6427,7,Bank transfer,Rani,Kolkata
+1496,Savita,Laptop,Electronics,79078,10,Credit Card,Sunita,Chennai
+1497,John,Chair,Furniture,852,5,Cash,Rani,Hyderabad
+1498,Priya,Chair,Furniture,758,9,UPI,Amitha,Pune
+1499,Savita,Mouse,Electronics,7406,6,Cash,Sunita,Kolkata
+1500,Anjali,Chair,Furniture,847,5,Bank transfer,Sunita,Bangalore

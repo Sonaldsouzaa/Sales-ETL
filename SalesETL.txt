@@ -1,0 +1,170 @@
+SalesETL
+df.to_csv("data/raw/sales.csv", index=False)
+
+Every DataFrame has an index.
+
+Example:
+
+import pandas as pd
+
+df = pd.DataFrame({
+    "Customer": ["John", "Sara", "Mike"],
+    "Price": [100, 200, 300]
+})
+
+print(df)
+
+Output:
+
+   Customer  Price
+0      John    100
+1      Sara    200
+2      Mike    300
+
+Notice the leftmost column:
+
+0
+1
+2
+
+That is the index.
+
+It's not one of your data columns. Pandas automatically creates it to identify each row.
+
+What happens with to_csv()?
+
+Suppose you save the DataFrame like this:
+
+df.to_csv("sales.csv")
+
+The CSV will look like:
+
+,Customer,Price
+0,John,100
+1,Sara,200
+2,Mike,300
+
+
+Other Common Parameters in to_csv()
+
+There are many options, but these are the ones you'll use most often.
+
+1. sep
+
+Changes the separator.
+
+Default:
+
+df.to_csv("sales.csv", sep=",")
+
+Output:
+
+John,100
+Sara,200
+
+Using a semicolon:
+
+df.to_csv("sales.csv", sep=";")
+
+Output:
+
+John;100
+Sara;200
+
+Useful because some countries use ; instead of ,.
+
+2. header
+
+Controls whether column names are written.
+
+Default:
+
+header=True
+
+Output:
+
+Customer,Price
+John,100
+Sara,200
+
+Without headers:
+
+df.to_csv("sales.csv", header=False)
+
+Output:
+
+John,100
+Sara,200
+3. columns
+
+Save only selected columns.
+
+df.to_csv(
+    "sales.csv",
+    columns=["Customer", "Price"],
+    index=False
+)
+
+Output:
+
+Customer,Price
+John,100
+Sara,200
+4. encoding
+
+Defines how text is stored.
+
+df.to_csv("sales.csv", encoding="utf-8")
+
+Very important when working with:
+
+Hindi
+Japanese
+Emojis
+International data
+
+UTF-8 is the standard choice.
+
+5. mode
+
+Controls whether to overwrite or append.
+
+Overwrite (default):
+
+mode="w"
+
+Append:
+
+mode="a"
+
+Appending is useful for log files or when adding new records to an existing CSV.
+
+6. na_rep
+
+Controls how missing values are written.
+
+Example:
+
+df.to_csv(
+    "sales.csv",
+    na_rep="NULL"
+)
+
+Instead of:
+
+John,
+
+you'll get:
+
+John,NULL
+Putting it together
+
+A realistic export might look like:
+
+df.to_csv(
+    "data/raw/sales.csv",
+    index=False,
+    encoding="utf-8",
+    sep=",",
+    header=True
+)
